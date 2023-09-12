@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<name>elasticsearch-analysis-greeklish</name>
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>gr.skroutz</groupId>
+	<groupId>com.rocket-path</groupId>
 	<artifactId>elasticsearch-analysis-greeklish</artifactId>
 	<version>7.7.0.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -52,7 +52,7 @@
 		<connection>scm:git:git@github.com:skroutz/elasticsearch-analysis-greeklish.git</connection>
 		<developerConnection>scm:git:git@github.com:skroutz/elasticsearch-analysis-greeklish.git
         </developerConnection>
-		<url>http://github.com/skroutz/elasticsearch-analysis-greeklish</url>
+		<url>https://github.com/rocket-path/elasticsearch-analysis-greeklish</url>
 	</scm>
 
   <distributionManagement>
